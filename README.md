@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ameer</h1>
 <h3 align="center">I am a Software Engineer & a UI Designer with a focus on Frontend Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameer2468&label=Profile%20views&color=0e75b6&style=flat" alt="ameer2468" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameer2468" alt="ameer2468" /></a> </p>
-
 - 🔭 I’m currently working at stardust.gg and my side project [Invoice project](https://github.com/ameer2468/invoiceproject)
 
 - 👨‍💻 Checkout my website [https://www.aashhab.design](https://www.aashhab.design)
