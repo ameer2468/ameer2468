@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ameer</h1>
 <h3 align="center">I am a Software Engineer & a UI Designer with a focus on Frontend Engineering</h3>
 
-- 🔭 I’m currently working at stardust.gg and my side project [Invoice project](https://github.com/ameer2468/invoiceproject)
+- 🔭 I’m currently working at [stardust.gg](https://www.stardust.gg) and my side project [Invoice project](https://github.com/ameer2468/invoiceproject)
 
 - 👨‍💻 Checkout my website [https://www.aashhab.design](https://www.aashhab.design)
 
