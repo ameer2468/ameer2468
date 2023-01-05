@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ameer</h1>
 <h3 align="center">I am a Software Engineer & a UI Designer with a focus on Frontend Engineering</h3>
 
-- 🔭 I’m currently working at [stardust.gg](https://www.stardust.gg)
-
 - 👨‍💻 Checkout my website [https://www.aashhab.design](https://www.aashhab.design)
 
 - 💬 Ask me about **UI Design, Frontend Engineering, anything really**
