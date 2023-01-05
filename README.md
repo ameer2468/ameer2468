@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ameer</h1>
-<h3 align="center">I am a Software Engineer & a UI Designer with a focus on Frontend Engineering</h3>
+<h3 align="center">I am a Software Engineer & a UI Designer</h3>
 
 - 👨‍💻 Checkout my website [https://www.aashhab.design](https://www.aashhab.design)
 
